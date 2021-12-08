@@ -1,1 +1,1 @@
-# github-total
+# github-goit-markup-hw-01
